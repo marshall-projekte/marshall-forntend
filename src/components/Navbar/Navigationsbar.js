@@ -7,7 +7,7 @@ function Navigationsbar() {
   return (
     <Navbar collapseOnSelect expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="https://dwb-premium.bau.de">dwb-premium.bau.de</Navbar.Brand>
+        <Navbar.Brand href="https://marschall-oberflaechentechnik.de">marschall-oberflaechentechnik.de</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
